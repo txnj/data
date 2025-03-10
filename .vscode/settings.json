@@ -75,7 +75,7 @@
 	},
 	"json.format.enable": true,
 	"workbench.iconTheme": "vscode-icons",
-	"workbench.colorTheme": "Red",
+	"workbench.colorTheme": "Default Light Modern",
 	"terminal.integrated.enableMultiLinePasteWarning": "auto",
 	// 📝vscode自带css规则配置
 	"css.validate": true,
@@ -83,5 +83,8 @@
 	"css.lint.unknownProperties": "warning", // 对未知的属性发出警告
 	"css.lint.vendorPrefix": "warning", // 对供应商前缀发出警告
 	"css.lint.duplicateProperties": "error", // 对重复的属性发出错误
-	"css.lint.emptyRules": "warning" // 对空规则发出警告
+	"css.lint.emptyRules": "warning",
+	"[toml]": {
+		"editor.defaultFormatter": "tamasfe.even-better-toml"
+	} // 对空规则发出警告
 }
