@@ -56,6 +56,7 @@
 	"prettier.useTabs": true, //使用制表符而不是空格缩进行
 	// 📝彩虹缩进 indent-rainbow 配置
 	"indentRainbow.ignoreErrorLanguages": ["python", "typescriptreact"],
+	"rainbow_csv.autodetect_separators": ["TAB", ",", "|"], // 对空规则发出警告
 	// 📝env
 	"python.envFile": "${workspaceFolder}/.env",
 	"terminal.integrated.env.windows": {
@@ -86,5 +87,5 @@
 	"css.lint.emptyRules": "warning",
 	"[toml]": {
 		"editor.defaultFormatter": "tamasfe.even-better-toml"
-	} // 对空规则发出警告
+	}
 }
