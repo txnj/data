@@ -5,11 +5,7 @@
 	{ "key": "binancecoin", "value": "BNB" },
 	{ "key": "dogecoin", "value": "DOGE" },
 	{ "key": "shiba-inu", "value": "SHIB" },
-	{ "key": "turbo", "value": "TURBO" },
 	{ "key": "pepe", "value": "PEPE" },
-	{ "key": "apu-s-club", "value": "APU" },
-	{ "key": "solana", "value": "SOL" },
 	{ "key": "bitget-token", "value": "BGB" },
-	{ "key": "fartcoin", "value": "FARTCOIN" },
-	{ "key": "official-trump", "value": "TRUMP" }
+	{ "key": "fartcoin", "value": "FARTCOIN" }
 ]
