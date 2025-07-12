@@ -4,7 +4,6 @@
 	{ "key": "uniswap", "value": "UNI" },
 	{ "key": "binancecoin", "value": "BNB" },
 	{ "key": "dogecoin", "value": "DOGE" },
-	{ "key": "shiba-inu", "value": "SHIB" },
 	{ "key": "pepe", "value": "PEPE" },
 	{ "key": "bitget-token", "value": "BGB" },
 	{ "key": "fartcoin", "value": "FARTCOIN" },
@@ -13,4 +12,5 @@
 	{ "key": "turbo", "value": "TURBO" },
 	{ "key": "popcat", "value": "POPCAT" },
 	{ "key": "arweave", "value": "AR" }
+	{ "key": "ondo-finance", "value": "ONDO" }
 ]
