@@ -7,12 +7,7 @@
 	{ "key": "pepe", "value": "PEPE" },
 	{ "key": "bitget-token", "value": "BGB" },
 	{ "key": "fartcoin", "value": "FARTCOIN" },
-	{ "key": "alchemist-ai", "value": "ALCH" },
-	{ "key": "sudeng", "value": "HIPPO" },
 	{ "key": "turbo", "value": "TURBO" },
 	{ "key": "popcat", "value": "POPCAT" },
-	{ "key": "arweave", "value": "AR" },
-	{ "key": "ondo-finance", "value": "ONDO" },
-	{ "key": "morpho", "value": "MORPHO" },
-	{ "key": "euler", "value": "EUL" }
+	{ "key": "arweave", "value": "AR" }
 ]
